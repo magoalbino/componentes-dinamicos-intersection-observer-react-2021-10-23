@@ -6,7 +6,9 @@ Historicamente, detectar a visibilidade de um elemento, ou a visibilidade relati
 
 Nesse vídeo vamos utilizar o IntersectionObserver, uma web API que nos provê uma forma elegante de lidar com mudanças na interseção dos elementos desejados. Vamos construir um componente de LazyLoad do zero utilizando ReactJs mas o IntersectionObserver é independente de frameworks então você pode adaptar o uso para qual for a sua necessidade. 
 
-## Expert
+Neste exemplo de código, utilizamos o IntersectionObserver para carregar dinamicamente os itens de uma lista, ao rolar o scroll da página.
+
+## Créditos
 
 | [<img src="https://avatars.githubusercontent.com/u/36671679?v=4" width="75px;"/>](https://github.com/masterjapa) |
 | :-: |
